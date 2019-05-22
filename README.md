@@ -1,4 +1,6 @@
 Number Formatter
+[![Build Status](https://travis-ci.org/Al10s/number-formatter.svg?branch=master)](https://travis-ci.org/Al10s/number-formatter)
+[![Coverage Status](https://coveralls.io/repos/github/Al10s/number-formatter/badge.svg?branch=master)](https://coveralls.io/github/Al10s/number-formatter?branch=master)
 =========
 
 A small library that adds commas to numbers
