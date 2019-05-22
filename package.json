@@ -1,0 +1,23 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Al10s/number-formatter.git"
+  },
+  "author": "Antoine Lemarchand <an.lemarchand@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Al10s/number-formatter/issues"
+  },
+  "homepage": "https://github.com/Al10s/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
