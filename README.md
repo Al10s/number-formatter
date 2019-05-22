@@ -5,12 +5,12 @@ A small library that adds commas to numbers
 
 ## Installation
 
-`npm install @Al10s/number-formatter`
+`npm install @al10s/number-formatter`
 
 ## Usage
 
 ```js
-const numFormatter = require('@Al10s/number-formatter');
+const numFormatter = require('@al10s/number-formatter');
 const formattedNum = numFormatter(35666);
 // Output should be `35,666`
 ```
